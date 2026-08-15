@@ -14,7 +14,7 @@ setup(
     name="mlProject",
     version="0.0.1",
     author="Nikhil",
-    author_email="k06@gmail.com",
+    author_email="nikhil.dhumale29@gmail.com",
     packages=find_packages(),
     install_requires=get_requirements("requirements.txt"),
 )
